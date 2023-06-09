@@ -1,0 +1,19 @@
+{
+  "name": "type-bundle-test-1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodech/type-bundle-test-1.git"
+  },
+  "author": "Nodari Chkuaselidze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodech/type-bundle-test-1/issues"
+  },
+  "homepage": "https://github.com/nodech/type-bundle-test-1#readme"
+}
